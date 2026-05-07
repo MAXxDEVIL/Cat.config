@@ -1,4 +1,3 @@
-```
 "$schema" = 'https://starship.rs/config-schema.json'
 add_newline = false
 
@@ -50,6 +49,30 @@ color_yellow = '#4da3ff'
 [os]
 disabled = false
 style = "bg:color_orange fg:color_fg0"
+
+[os.symbols]
+Windows = "󰍲"
+Ubuntu = "󰕈"
+SUSE = ""
+Raspbian = "󰐿"
+Mint = "󰣭"
+Macos = "󰀵"
+Manjaro = ""
+Linux = "󰌽"
+Gentoo = "󰣨"
+Fedora = "󰣛"
+Alpine = ""
+Amazon = ""
+Android = ""
+Arch = "🜲"
+CachyOS = "󰣇"
+Artix = "󰣇"
+EndeavourOS = ""
+CentOS = ""
+Debian = "󰣚"
+Redhat = "󱄛"
+RedHatEnterprise = "󱄛"
+Pop = ""
 
 [username]
 show_always = true
@@ -154,5 +177,3 @@ vimcmd_replace_symbol = '[❮](bold fg:color_purple)'
 vimcmd_visual_symbol = '[❮](bold fg:#4da3ff)'
 
 
-
-```
