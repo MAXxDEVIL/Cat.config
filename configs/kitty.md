@@ -1,41 +1,19 @@
 ```
-include ~/.config/omarchy/current/theme/kitty.conf
 
-# Font
+
 font_family JetBrainsMono Nerd Font
-bold_italic_font auto
-font_size 9.0
-
-# Window
-window_padding_width 14
-hide_window_decorations yes
-confirm_os_window_close 0
-
-# Transparency (this is what you want)
-background_opacity 0.85
-dynamic_background_opacity yes
-
-# Optional blur (works if compositor supports it)
-background_blur 10
-
-# Keybindings
-map ctrl+insert copy_to_clipboard
-map shift+insert paste_from_clipboard
-
-# Allow remote access
+font_size 11.5
+background_opacity 0.88
+foreground #e6f7ff
+background #0f1117
+cursor #4dd0e1
+selection_foreground #0f1117
+selection_background #4dd0e1
+window_padding_width 10
+enable_audio_bell no
 allow_remote_control yes
 
-# Aesthetics
-cursor_shape block
-cursor_blink_interval 0
-shell_integration no-cursor
-enable_audio_bell no
-
-# Minimal Tab bar styling
-tab_bar_edge bottom
-tab_bar_style powerline
-tab_powerline_style slanted
-tab_title_template {title}{' :{}:'.format(num_windows) if num_windows > 1 else ''}
+map ctrl+shift+f2 launch --location=hsplit --cwd=current
 
 
 ```
