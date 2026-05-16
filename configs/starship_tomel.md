@@ -1,3 +1,5 @@
+```
+
 "$schema" = 'https://starship.rs/config-schema.json'
 add_newline = false
 
@@ -177,3 +179,4 @@ vimcmd_replace_symbol = '[❮](bold fg:color_purple)'
 vimcmd_visual_symbol = '[❮](bold fg:#4da3ff)'
 
 
+```
