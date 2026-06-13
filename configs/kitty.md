@@ -5,6 +5,7 @@ font_family JetBrainsMono Nerd Font
 font_size 11.5
 background_opacity 0.88
 foreground #e6f7ff
+cursor_trail 4
 background #0f1117
 cursor #4dd0e1
 selection_foreground #0f1117
