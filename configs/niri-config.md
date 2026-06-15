@@ -17,7 +17,6 @@ binds {
     Mod+B                               hotkey-overlay-title="Open Browser: Google Chrome"{spawn "flatpak" "run" "com.google.Chrome";}
     Mod+S                               hotkey-overlay-title="Open Music: Spotify"{spawn "flatpak" "run" "com.spotify.Client";}
     Mod+W                               hotkey-overlay-title="Open WhatsApp" { spawn "/opt/WhatsApp Desktop/whatsapp-linux-desktop"; }
-
     Mod+ALT+L                           hotkey-overlay-title="Lock Screen: noctalia lock" { spawn-sh "qs -c noctalia-shell ipc call lockScreen lock"; }
     Mod+Shift+Q                         hotkey-overlay-title="Session Menu: noctalia sessionMenu" { spawn-sh "qs -c noctalia-shell ipc call sessionMenu toggle"; }
     
