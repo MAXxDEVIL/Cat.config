@@ -20,6 +20,8 @@ binds {
     Mod+Shift+Q                         hotkey-overlay-title="Session Menu: noctalia sessionMenu" { spawn-sh "qs -c noctalia-shell ipc call sessionMenu toggle"; }
     Mod+W                               hotkey-overlay-title="Open WhatsApp" { spawn "/opt/WhatsApp Desktop/whatsapp-linux-desktop"; }
     Mod+V                               hotkey-overlay-title="Open VS Code" { spawn "code"; } 
+    Mod+D                               hotkey-overlay-title="Open Discord" { spawn "discord"; } 
+
 
 
 
