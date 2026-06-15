@@ -1,5 +1,3 @@
-```
-
 binds {
 
     // ────────────── Keybindings ──────────────
@@ -16,15 +14,14 @@ binds {
     Mod+space                           hotkey-overlay-title="Open App Launcher: noctalia launcher" { spawn-sh "qs -c noctalia-shell ipc call launcher toggle"; }
     Mod+B                               hotkey-overlay-title="Open Browser: Google Chrome"{spawn "flatpak" "run" "com.google.Chrome";}
     Mod+S                               hotkey-overlay-title="Open Music: Spotify"{spawn "flatpak" "run" "com.spotify.Client";}
-    Mod+W                               hotkey-overlay-title="Open WhatsApp" { spawn "/opt/WhatsApp Desktop/whatsapp-linux-desktop"; }
     Mod+ALT+L                           hotkey-overlay-title="Lock Screen: noctalia lock" { spawn-sh "qs -c noctalia-shell ipc call lockScreen lock"; }
     Mod+Shift+Q                         hotkey-overlay-title="Session Menu: noctalia sessionMenu" { spawn-sh "qs -c noctalia-shell ipc call sessionMenu toggle"; }
-    
+    Mod+W                               hotkey-overlay-title="Open WhatsApp" { spawn "/opt/WhatsApp Desktop/whatsapp-linux-desktop"; }
 
 
 
 
-// For Control-Center
+//----- For Control-Center-----
 Mod+C {
     spawn-sh "qs -c noctalia-shell ipc call controlCenter toggle"
 }
@@ -134,7 +131,7 @@ Mod+C {
     // ─── Modes ───
     Mod+T                               { toggle-window-floating; }
     Mod+F                               { fullscreen-window; }
-    Mod+W                               { toggle-column-tabbed-display; }
+    // Mod+W                               { toggle-column-tabbed-display; }
 
     // ─── Screenshots ───
     Mod+F2                              { screenshot; }
@@ -151,6 +148,3 @@ Mod+C {
     Mod+Shift+P                         { power-off-monitors; } // Turn off screens (useful for OLED or privacy)
     Mod+O                               repeat=false { toggle-overview; }
 }
-
-
-```
