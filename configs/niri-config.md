@@ -17,6 +17,7 @@ binds {
     Mod+ALT+L                           hotkey-overlay-title="Lock Screen: noctalia lock" { spawn-sh "qs -c noctalia-shell ipc call lockScreen lock"; }
     Mod+Shift+Q                         hotkey-overlay-title="Session Menu: noctalia sessionMenu" { spawn-sh "qs -c noctalia-shell ipc call sessionMenu toggle"; }
     Mod+W                               hotkey-overlay-title="Open WhatsApp" { spawn "/opt/WhatsApp Desktop/whatsapp-linux-desktop"; }
+    Mod+V                               hotkey-overlay-title="Open VS Code" { spawn "code"; } 
 
 
 
