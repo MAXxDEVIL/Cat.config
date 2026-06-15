@@ -1,3 +1,5 @@
+```
+
 binds {
 
     // ────────────── Keybindings ──────────────
@@ -149,3 +151,5 @@ Mod+C {
     Mod+Shift+P                         { power-off-monitors; } // Turn off screens (useful for OLED or privacy)
     Mod+O                               repeat=false { toggle-overview; }
 }
+
+```
