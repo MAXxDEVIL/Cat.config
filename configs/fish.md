@@ -38,5 +38,12 @@ set -gx PATH $HOME/.nvm/versions/node/v22.21.1/bin $PATH
 
 ```
 
+## For turnoff greeting
+
+```
+set -U fish_greeting
+
+```
+
 
 
