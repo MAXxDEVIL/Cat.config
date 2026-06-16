@@ -1,5 +1,5 @@
 
-## Initialize fish to kitty
+### Initialize fish to kitty
 
 ```
 
@@ -9,7 +9,7 @@ shell /usr/bin/fish
 
 
 
-## config
+### config
 
 ```
 
@@ -38,7 +38,7 @@ set -gx PATH $HOME/.nvm/versions/node/v22.21.1/bin $PATH
 
 ```
 
-## For turnoff greeting
+### For turnoff greeting run
 
 ```
 set -U fish_greeting
