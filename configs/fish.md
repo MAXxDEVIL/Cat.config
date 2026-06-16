@@ -1,3 +1,16 @@
+
+## Initialize fish to kitty
+
+```
+
+shell /usr/bin/fish  
+
+```
+
+
+
+
+
 ```
 
 set -x STARSHIP_CONFIG "$HOME/.config/starship.toml"
@@ -27,10 +40,3 @@ set -gx PATH $HOME/.nvm/versions/node/v22.21.1/bin $PATH
 
 
 
-## Initialize fish to kitty
-
-{
-    ```
-      shell /usr/bin/fish  
-    ```
-}
