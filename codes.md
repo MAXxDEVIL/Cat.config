@@ -29,5 +29,10 @@ sudo mkfs.btrfs -f -L HDD_one /dev/sda
 
 #### Pacman<
 ```
-sudo pacman -S jdk-openjdk libreoffice-fresh cava fastfetch cmatrix base-devel restup nvim git zed
+sudo pacman -S jdk-openjdk libreoffice-fresh cava fastfetch cmatrix restup nvim git zed
+```
+
+#### Yay
+```
+yay -S visual-studio-code-bin spotify
 ```
