@@ -32,7 +32,7 @@ sudo mkfs.btrfs -f -L HDD_one /dev/sda
 sudo pacman -S jdk-openjdk libreoffice-fresh cava fastfetch cmatrix restup nvim git zed
 ```
 
-#### Yay
+#### Yay :)
 ```
 yay -S visual-studio-code-bin spotify
 ```
