@@ -1,19 +1,20 @@
 ```
 
+
 "$schema" = 'https://starship.rs/config-schema.json'
 add_newline = false
 
 format = """
-[╭────────────────────────────────────────────────────Ｏ](bold #2170b5)
-[│](bold #2170b5)[░▒▓](#2170b5)\
+[╭────────────────────────────────────────────────────Ｏ](bold #9b59b6)
+[│](bold #9b59b6)[░▒▓](#9b59b6)\
 $os\
 $username\
-[](bg:#4da3ff fg:#2170b5)\
+[](bg:#9b59b6 fg:#9b59b6)\
 $directory\
-[](fg:#4da3ff bg:#3b82f6)\
+[](fg:#9b59b6 bg:#9b59b6)\
 $git_branch\
 $git_status\
-[](fg:#3b82f6 bg:#2563eb)\
+[](fg:#9b59b6 bg:#9b59b6)\
 $c\
 $cpp\
 $rust\
@@ -24,13 +25,13 @@ $java\
 $kotlin\
 $haskell\
 $python\
-[](fg:#2563eb bg:#1e40af)\
+[](fg:#9b59b6 bg:#9b59b6)\
 $docker_context\
 $conda\
 $pixi\
-[](fg:#1e40af bg:#172554)\
+[](fg:#9b59b6 bg:#9b59b6)\
 $time\
-[ ](fg:#172554)\
+[ ](fg:#9b59b6)\
 $line_break$character
 """
 
@@ -38,15 +39,15 @@ palette = 'blue_theme'
 
 [palettes.blue_theme]
 color_fg0 = '#e6f1ff'
-color_bg1 = '#172554'
-color_bg3 = '#1e3a8a'
-color_blue = '#3b82f6'
-color_aqua = '#38bdf8'
-color_green = '#60a5fa'
-color_orange = '#2170b5'
-color_purple = '#6366f1'
-color_red = '#1d4ed8'
-color_yellow = '#4da3ff'
+color_bg1 = '#9b59b6'
+color_bg3 = '#9b59b6'
+color_blue = '#9b59b6'
+color_aqua = '#9b59b6'
+color_green = '#9b59b6'
+color_orange = '#9b59b6'
+color_purple = '#9b59b6'
+color_red = '#9b59b6'
+color_yellow = '#9b59b6'
 
 [os]
 disabled = false
@@ -150,11 +151,11 @@ format = '[[ $symbol( $version) ](fg:color_fg0 bg:color_blue)]($style)'
 [docker_context]
 symbol = ""
 style = "bg:color_bg3"
-format = '[[ $symbol( $context) ](fg:#7dd3fc bg:color_bg3)]($style)'
+format = '[[ $symbol( $context) ](fg:#9b59b6 bg:color_bg3)]($style)'
 
 [conda]
 style = "bg:color_bg3"
-format = '[[ $symbol( $environment) ](fg:#7dd3fc bg:color_bg3)]($style)'
+format = '[[ $symbol( $environment) ](fg:#9b59b6 bg:color_bg3)]($style)'
 
 [pixi]
 style = "bg:color_bg3"
@@ -171,12 +172,13 @@ disabled = false
 
 [character]
 disabled = false
-success_symbol = '[╰─](bold #2170b5)[❯](bold fg:#38bdf8)'
-error_symbol = '[╰─](bold #2170b5)[✘](bold fg:#1d4ed8)'
-vimcmd_symbol = '[❮](bold fg:#38bdf8)'
+success_symbol = '[╰─](bold #9b59b6)[❯](bold fg:#9b59b6)'
+error_symbol = '[╰─](bold #9b59b6)[✘](bold fg:#9b59b6)'
+vimcmd_symbol = '[❮](bold fg:#9b59b6)'
 vimcmd_replace_one_symbol = '[❮](bold fg:color_purple)'
 vimcmd_replace_symbol = '[❮](bold fg:color_purple)'
-vimcmd_visual_symbol = '[❮](bold fg:#4da3ff)'
+vimcmd_visual_symbol = '[❮](bold fg:#9b59b6)'
+
 
 
 ```
