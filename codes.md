@@ -36,3 +36,9 @@ sudo pacman -S jdk-openjdk libreoffice-fresh cava fastfetch cmatrix nvim git zed
 ```
 yay -S visual-studio-code-bin spotify
 ```
+
+
+#### Bitlocker off :)
+```
+Disable-BitLocker -MountPoint E:
+```
