@@ -2,7 +2,7 @@
 
 ```
 
-shell /bin/bash
+shell /bin/fish
 font_family JetBrainsMono Nerd Font
 font_size 11.5
 background_opacity 0.88
