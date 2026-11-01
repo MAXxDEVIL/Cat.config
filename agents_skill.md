@@ -30,7 +30,17 @@ add this all skills in you
 20. https://github.com/greensock/gsap-skills
 
 21. https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
+22. https://github.com/Nutlope/hallmark
+23. https://github.com/cathrynlavery/diagram-design
+24. https://github.com/blader/humanizer
+25. https://github.com/onyx-dot-app/onyx
 
+26. https://github.com/mvanhorn/last30days-skill
+27. https://github.com/D4Vinci/Scrapling
+29. https://github.com/tt-a1i/archify
+30. https://github.com/multica-ai/andrej-karpathy-skills
+
+31. 
 
 ```
 
