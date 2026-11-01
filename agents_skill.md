@@ -10,11 +10,13 @@ add this all skills in you
 3. https://github.com/affaan-m/ECC
 4. https://github.com/udaysharmadev/Gravitas
 5. https://github.com/Jakeschincariol/replica-skill
+
 6. https://github.com/gsd-build/get-shit-done
 7. https://github.com/coderabbitai/skills
 8. https://github.com/DietrichGebert/ponytail
 9. https://github.com/Graphify-Labs/graphify
 10. https://github.com/addyosmani/agent-skills
+
 11. https://github.com/ruvnet/ruflo.git
 12. https://github.com/petergyang/no-ai-slop
 13. https://github.com/ayghri/i-have-adhd
@@ -34,14 +36,11 @@ add this all skills in you
 3. https://github.com/microsoft/playwright-cli
 4. https://github.com/VoltAgent/awesome-design-md
 5. https://github.com/img2threejs/img2threejs
+
 6. https://github.com/emilkowalski/skills
 7. https://github.com/greensock/gsap-skills
 8. https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
-9. https://github.com/DietrichGebert/ponytail
-10. https://github.com/Graphify-Labs/graphify
-11. https://github.com/addyosmani/agent-skills
-12. https://github.com/petergyang/no-ai-slop
-13. https://github.com/ayghri/i-have-adhd
+
 14. 
 
 
