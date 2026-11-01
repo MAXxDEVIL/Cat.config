@@ -40,8 +40,7 @@ add this all skills in you
 6. https://github.com/emilkowalski/skills
 7. https://github.com/greensock/gsap-skills
 8. https://github.com/nextlevelbuilder/ui-ux-pro-max-skill
-
-14. 
+ 
 
 
 
