@@ -37,10 +37,11 @@ add this all skills in you
 
 26. https://github.com/mvanhorn/last30days-skill
 27. https://github.com/D4Vinci/Scrapling
-29. https://github.com/tt-a1i/archify
-30. https://github.com/multica-ai/andrej-karpathy-skills
+28. https://github.com/tt-a1i/archify
+29. https://github.com/multica-ai/andrej-karpathy-skills
+30. https://github.com/wheresryan22/anatomy
 
-31. 
+31.  
 
 ```
 
