@@ -34,15 +34,6 @@ add this all skills in you
 
 ```
 
-## Web bulder 
-
-```
-add this all skills in you 
-
-
- 
-
-
 
 ```
 
